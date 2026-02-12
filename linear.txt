@@ -1,0 +1,4 @@
+        ◦ Project: Python_Battle_Bots
+        ◦ Ticket 1: Environment Setup (VSCode + Git)
+        ◦ Ticket 2: Design Blueprint (Class BattleBot)
+        ◦ Ticket 3: Implement Combat Logic
